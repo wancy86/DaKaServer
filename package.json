@@ -1,0 +1,28 @@
+{
+  "name": "dakaserver",
+  "version": "1.0.0",
+  "description": "Max daka",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wancy86/DaKaServer.git"
+  },
+  "keywords": [
+    "max",
+    "daka"
+  ],
+  "author": "CooMark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wancy86/DaKaServer/issues"
+  },
+  "homepage": "https://github.com/wancy86/DaKaServer#readme"
+}
